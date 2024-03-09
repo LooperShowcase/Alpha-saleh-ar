@@ -1,0 +1,46 @@
+h2 {
+  color: greenyellow;
+}
+
+h3 {
+  color: aqua;
+}
+
+h4 {
+  color: blue;
+}
+li {
+  font-size: 25px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.content {
+  position: fixed;
+  top: 10;
+  width: 100%;
+  padding: 20px;
+  padding-top: 0px;
+}
+#D1 {
+  color: rgb(196, 196, 196);
+}
+#d2 {
+  border-color: black;
+}
